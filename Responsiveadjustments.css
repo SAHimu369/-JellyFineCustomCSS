@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+  .card:hover {
+    transform: scale(1.02) !important;
+  }
+  
+  #castContent .personCard {
+    width: 3.2cm !important;
+  }
+  
+  #castContent .cardScalable {
+    width: 2.8cm !important;
+    height: 2.8cm !important;
+  }
+}
