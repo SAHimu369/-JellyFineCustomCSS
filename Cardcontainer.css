@@ -1,0 +1,9 @@
+#castContent .cardScalable {
+  width: 3.8cm !important;
+  height: 3.8cm !important;
+  border-radius: 50%;
+}
+
+#castContent .cardOverlayContainer.itemAction {
+  border-radius: 50%;
+}
