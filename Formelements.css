@@ -1,0 +1,11 @@
+.emby-input:focus,
+.emby-textarea:focus,
+.emby-select-withcolor {
+box-shadow: 0 0 0 2px var(--hover-overlay);
+}
+
+.emby-input:focus,
+.emby-textarea:focus,
+.emby-select-withcolor {
+  border-color: var(--indicator-color) !important;
+}
