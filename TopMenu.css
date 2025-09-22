@@ -1,0 +1,7 @@
+.skinHeader.focuscontainer-x.skinHeader-withBackground.skinHeader-blurred,
+.skinHeader.focuscontainer-x.skinHeader-withBackground.skinHeader-blurred.noHomeButtonHeader {
+  background: none;
+  background-color: var(--background-semi-transparent);
+
+  backdrop-filter: blur(10px);
+}
