@@ -13,3 +13,7 @@
 .sectionTabs {
  display: none;
 }
+
+.splashLogo {
+	background-image: url(https://i.postimg.cc/X7vJf9Vm/banner-light.png) !important;
+}
