@@ -2,8 +2,6 @@
 
 A dark, cinematic interface with highlighted important elements, making navigation intuitive while maintaining a modern, clean appearance focused on your media content.
 
-## 📁 Complete CSS Collection
-
 ## 🎨 Color Variables (Required - Foundation)
 ```css
 @import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/colorvariables.css");
