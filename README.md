@@ -4,9 +4,6 @@ A dark, cinematic interface with highlighted important elements, making navigati
 
 ## 📁 Complete CSS Collection
 
-### **Option 1: Master Import File (Easiest)**
-Create a `main.css` file with all imports combined:
-
 ## 🎨 Color Variables (Required - Foundation)
 ```css
 @import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/colorvariables.css");
