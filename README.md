@@ -1,75 +1,24 @@
-# -JellyFineCustomCSS
- a dark, cinematic interface with highlight important elements, making navigation intuitive while maintaining a modern, clean appearance focused on your media content. 
+# JellyFineCustomCSS
 
--color variables:
-```
-     @import url("https://github.com/SAHimu369/-JellyFineCustomCSS/blob/main/colorvariables.css");
-```
+A dark, cinematic interface with highlighted important elements, making navigation intuitive while maintaining a modern, clean appearance focused on your media content.
 
+## 📁 Complete CSS Collection
 
--Logo styling:
-```
-     @import url("https://github.com/SAHimu369/-JellyFineCustomCSS/blob/main/Logostyling.css");
-```
-
-
--Indicators:
-```
-     @import url("https://github.com/SAHimu369/-JellyFineCustomCSS/blob/main/Indicators.css");
-```
-
-
--Top Menu:
-```
-     @import url("https://github.com/SAHimu369/-JellyFineCustomCSS/blob/main/TopMenu.css");
-```
-
--episode preview:
-```
-     @import url("https://github.com/SAHimu369/-JellyFineCustomCSS/blob/main/episodepreview.css");
-```
-
--cast thumbnails:
-```
-     @import url("https://github.com/SAHimu369/-JellyFineCustomCSS/blob/main/castthumbnails.css");
-```
-
--Card container:
-```
-     @import url("https://github.com/SAHimu369/-JellyFineCustomCSS/blob/main/Cardcontainer.css");
-```
-
--Form elements:
-```
-     @import url("https://github.com/SAHimu369/-JellyFineCustomCSS/blob/main/Formelements.css");
-```
-
--Backgrounds:
-```
-     @import url("https://github.com/SAHimu369/-JellyFineCustomCSS/blob/main/Background.css");
-```
-
--Enhanced button:
-```
-     @import url("https://github.com/SAHimu369/-JellyFineCustomCSS/blob/main/Enhancedbutton.css");
-```
-
--Border radius:
-```
-     @import url("https://github.com/SAHimu369/-JellyFineCustomCSS/blob/main/Borderradius.css");
-```
-
--CARD HOVER:
-```
-     @import url("https://github.com/SAHimu369/-JellyFineCustomCSS/blob/main/CARDHOVER.css");
-```
-
--Responsive adjustments:
-```
-     @import url("https://github.com/SAHimu369/-JellyFineCustomCSS/blob/main/Responsiveadjustments.css");
-```
-
--Scrollbar styling:
-```
-     @import url("https://github.com/SAHimu369/-JellyFineCustomCSS/blob/main/Scrollbarstyling.css");
-```
+### **Option 1: Master Import File (Easiest)**
+Create a `main.css` file with all imports combined:
+```css
+/* JellyFineCustomCSS - Master Import */
+@import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/colorvariables.css");
+@import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/Logostyling.css");
+@import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/Indicators.css");
+@import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/TopMenu.css");
+@import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/episodepreview.css");
+@import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/castthumbnails.css");
+@import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/Cardcontainer.css");
+@import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/Formelements.css");
+@import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/Background.css");
+@import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/Enhancedbutton.css");
+@import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/Borderradius.css");
+@import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/CARDHOVER.css");
+@import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/Responsiveadjustments.css");
+@import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/Scrollbarstyling.css");
