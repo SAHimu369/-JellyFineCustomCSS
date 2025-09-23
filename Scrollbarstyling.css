@@ -14,3 +14,19 @@
 ::-webkit-scrollbar-thumb:hover {
   background: #005a5e;
 }
+
+
+.button-submit {
+	background: ##00767a !important;
+	color: #fff !important;
+}
+
+.raised {
+	background: #2c3e50 !important;
+	color: #fff !important;
+}
+
+* {
+	scrollbar-width: thin;
+	scrollbar-color: #00767a #2c3e50;
+}
