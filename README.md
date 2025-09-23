@@ -7,8 +7,8 @@ A dark, cinematic interface with highlighted important elements, making navigati
 ### **Option 1: Master Import File (Easiest)**
 Create a `main.css` file with all imports combined:
 ```css
-/* JellyFineCustomCSS - Master Import */
 @import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/colorvariables.css");
+```css
 @import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/Logostyling.css");
 @import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/Indicators.css");
 @import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/TopMenu.css");
