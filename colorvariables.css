@@ -1,8 +1,0 @@
-:root {
-  --accent: #00767a !important;
-  --indicator-color: #00767a;
-  --background-dark: #212328;
-  --background-semi-transparent: #2c3e50;
-  --background-semi-transparent: rgba(44, 62, 80, 0.95);
-  --hover-overlay: rgba(0, 118, 122, 0.2);
-}
