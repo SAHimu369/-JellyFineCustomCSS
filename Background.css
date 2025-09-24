@@ -4,7 +4,6 @@
 .emby-textarea,
 .emby-select,
 .navMenuOption-selected,
-.cardBox,
 .paperList
  {
   background-color: var(--background-semi-transparent) !important;
