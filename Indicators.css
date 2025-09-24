@@ -1,6 +1,0 @@
-.playedIndicator,
-.indicator,
-.countIndicator,
-.mediaSourceIndicator {
-  background: var(--indicator-color) !important;
-}
