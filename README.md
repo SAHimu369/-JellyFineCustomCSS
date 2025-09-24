@@ -6,3 +6,5 @@ A dark, cinematic interface with highlighted important elements, making navigati
 ```css
 @import url("https://cdn.jsdelivr.net/gh/SAHimu369/-JellyFineCustomCSS@main/main.css");
 ```
+## Screenshot
+![Image](Screenshot/ss01.PNG)
