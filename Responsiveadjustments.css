@@ -6,6 +6,10 @@
   #castContent .personCard {
     width: 3.2cm !important;
   }
+
+  .splashLogo {
+	background-image: url(https://i.postimg.cc/X7vJf9Vm/banner-light.png) !important;
+  }
   
   #castContent .cardScalable {
     width: 2.8cm !important;
